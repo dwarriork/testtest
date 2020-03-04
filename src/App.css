@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+button:hover{
+  opacity: 0.5;
+  cursor: pointer;
+  color: gray;
+}
